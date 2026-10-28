@@ -1,16 +1,6 @@
 {
   "lives": [
-    {
-      "name": "平台直播",
-      "type": 0,
-      "url": "http://47.120.41.246:8025/vip/jar/zb.php",
-      "playerType": 1
-    },
-    {
-      "name": "Guovin",
-      "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u"
-    },
+  
     {
       "name": "7778",
       "type": 0,
